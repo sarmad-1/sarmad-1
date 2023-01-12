@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Localhost Refused To Connect</div>  
+### <div align="center"Sarmad Abdullah</div>  
   
 
 <br/>  
@@ -36,7 +36,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarmad-1&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
