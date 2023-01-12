@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision ...👀
 - 🌱 I’m currently learning deep learning using python...🐍
 - 💞️ I’m looking to collaborate on ...🖥️
-- 📫 How to reach me ...@t.me/baseVPN
+- 📫 How to reach me ... @baseVPN on Telegram 
 
 <!---
 sarmad-1/sarmad-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
