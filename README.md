@@ -3,9 +3,7 @@
 </div>  
   
 
-### <div align="center"Sarmad Abdullah</div>  
-  
-
+### <div align="center"Sarmad Abdullah"</div>  
 <br/>  
 
 
@@ -42,16 +40,15 @@
 
 ## 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true" /></div>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=devshimitsu&&style=flat-square" align="center" />
-</div>  
   
-![](https://komarev.com/ghpvc/?username=sarmad-1&color=green)
+![](https://komarev.com/ghpvc/?username=sarmad-1&color=dc143c&style=for-the-badge&label=TIME+VIEWS)
 <br/>  
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1&hide=contribs,prs&show_icons=true&theme=dracula)
+<br />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)
 <br />
