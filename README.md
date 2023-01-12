@@ -4,7 +4,7 @@
   
 
 
-### <div align="center"Sarmad Abdullah</div>  
+### <div align="center"Sarmad Abdullah"></div>  
 [![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>  
@@ -48,7 +48,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=devshimitsu&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sarmad-1&&style=flat-square" align="center" />
 </div>  
   
 ![](https://komarev.com/ghpvc/?username=sarmad-1&color=green)
