@@ -5,7 +5,7 @@
 
 
 ### <div align="center"Sarmad Abdullah</div>  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)  
+[![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>  
 
