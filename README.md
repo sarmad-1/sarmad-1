@@ -1,14 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-
-### <div align="center"></div>  
-[![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)  
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
