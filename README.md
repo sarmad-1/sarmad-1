@@ -4,7 +4,7 @@
   
 
 
-### <div align="center"Sarmad Abdullah"></div>  
+### <div align="center"></div>  
 [![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad-1)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>  
@@ -37,22 +37,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarmad-1&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
-
-<br/>  
-
-## 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarmad-1&&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sarmad-1&&style=flat-square" align="center" />
 </div>  
-  
-![](https://komarev.com/ghpvc/?username=sarmad-1&color=green)
-<br/>  
+
 
 
 <br />
